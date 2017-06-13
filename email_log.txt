@@ -1,0 +1,3 @@
+[2017-06-13 09:51:42] Message body empty
+[2017-06-13 09:51:18] Message body empty
+[2017-06-13 09:50:58] Cannot send email with internal script
